@@ -8,11 +8,19 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    // MARK: - Variables
+    
+    private let images: [UIImage] = []
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        view.backgroundColor = .systemBlue
+        self.view.backgroundColor = .systemBlue
+        
+        for _ in 0...25 {
+            
+        }
     }
 
 
