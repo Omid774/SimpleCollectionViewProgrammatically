@@ -12,6 +12,7 @@
 		F76E982A2CE5E1540064E448 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F76E98292CE5E1540064E448 /* ViewController.swift */; };
 		F76E982F2CE5E1560064E448 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F76E982E2CE5E1560064E448 /* Assets.xcassets */; };
 		F76E98322CE5E1560064E448 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = F76E98312CE5E1560064E448 /* Base */; };
+		F7C7D7132CEBC0BC0086C1FF /* CustomCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C7D7122CEBC0BC0086C1FF /* CustomCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F76E982E2CE5E1560064E448 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F76E98312CE5E1560064E448 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F76E98332CE5E1560064E448 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F7C7D7122CEBC0BC0086C1FF /* CustomCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				F76E98292CE5E1540064E448 /* ViewController.swift */,
+				F7C7D7122CEBC0BC0086C1FF /* CustomCollectionViewCell.swift */,
 				F76E98392CE5E7550064E448 /* Supporting */,
 				F76E98332CE5E1560064E448 /* Info.plist */,
 			);
@@ -145,6 +148,7 @@
 				F76E982A2CE5E1540064E448 /* ViewController.swift in Sources */,
 				F76E98262CE5E1540064E448 /* AppDelegate.swift in Sources */,
 				F76E98282CE5E1540064E448 /* SceneDelegate.swift in Sources */,
+				F7C7D7132CEBC0BC0086C1FF /* CustomCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
